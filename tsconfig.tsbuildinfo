@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/attractioncard.tsx","./src/components/filterpanel.tsx","./src/components/header.tsx","./src/components/locationcard.tsx","./src/components/resortcard.tsx","./src/data/locations.ts","./src/types/index.ts"],"version":"5.9.3"}
